@@ -1,6 +1,6 @@
 ﻿(function () {
     'use strict';
 
-    angular.module('paperoni', []);
+    angular.module('paperoni', ['ngRoute']);
 
 })();
